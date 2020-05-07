@@ -50,3 +50,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Emacs ###
+*~
+*#
+
